@@ -96,3 +96,16 @@ if (String.isBlank(str)) return "Hello";
 
 ***
 
+### Marcação 
+
+Como diria @ nome_do_usuário !!
+
+---
+
+### Replicar postagem com resposta
+
+Opção quote reply (... da issue);
+
+> Pergunta ?
+Resposta
+
