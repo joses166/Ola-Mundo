@@ -1,18 +1,18 @@
-# Guia de comandos que podem ser utilizados na linguagem Markdown
+# Comandos Linguagem Markdown
 
-### Títulos
+### Títulos:
 
 # Título 1
 ## Título 2
 ### Título 3
 
-### Linhas
+### Linhas:
 
 ---
 
 ***
 
-### Tipos de palavras
+### Tipos de palavras:
 
 **palavra em negrito**
 __palavra em negrito__
@@ -24,7 +24,7 @@ _palavra em itálico_
 
 __*palavra em negrito e itálico*__
 
-### Lista Ordenada
+### Lista Ordenada:
 
 1. Lista 1
 1. Lista 2
@@ -32,7 +32,7 @@ __*palavra em negrito e itálico*__
    1. Sub-Item
    1. Sub-Item
 
-### Lista Demarcada
+### Lista Demarcada: 
 
 * Lista 1
 * Lista 2
@@ -55,11 +55,11 @@ __*palavra em negrito e itálico*__
 
 ![avatar-jose-hamilton](https://avatars.githubusercontent.com/u/28939159?s=400&u=6ba1e3cd80736c54979f868c4d5029479d7de906&v=4)
 
-### Adicionando link
+### Adicionando link:
 
 [Acesse meu GitHub](https://github.com/joses166)
 
-### Tabela
+### Tabela:
 
 Num | Nome | Nota
 ---|---|---
@@ -67,7 +67,7 @@ Num | Nome | Nota
 2 | Marcos | 4,5
 3 | Lucas | 8,0
 
-### Comando
+### Comando:
 
 `document.getElementById()`
 
@@ -76,3 +76,8 @@ String str = null;
 if (String.isBlank(str)) return "Hello";
 ```
 
+### Emojis:
+
+:vulcan_salute
+:+1
+:-1
