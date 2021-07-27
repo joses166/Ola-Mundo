@@ -78,6 +78,4 @@ if (String.isBlank(str)) return "Hello";
 
 ### Emojis:
 
-:vulcan_salute
-:+1
-:-1
+:vulcan_salute:
