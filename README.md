@@ -47,9 +47,9 @@ __*palavra em negrito e itálico*__
 
 - [x] Primeira tarefa;
 - [x] Segunda tarefa;
-- [] Terceira tarefa;
-- [] Quarta tarefa;
-- [] Quinta tarefa;
+- [ ] Terceira tarefa;
+- [ ] Quarta tarefa;
+- [ ] Quinta tarefa;
 
 ### Adicionar imagens no github:
 
