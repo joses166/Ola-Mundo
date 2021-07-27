@@ -1,12 +1,3 @@
-# Olá, Mundo!
-
- Primeiro repositório do curso de Git e GitHub.
-
- Repositório criado durante uma aula ao vivo!
- 
- Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE.
-
-
 # Guia de comandos que podem ser utilizados na linguagem Markdown
 
 ### Títulos
@@ -62,5 +53,26 @@ __*palavra em negrito e itálico*__
 
 ### Adicionar imagens no github:
 
-![avatar-jose-hamilton](https://avatars.githubusercontent.com/u/28939159?v=4)
+![avatar-jose-hamilton](https://avatars.githubusercontent.com/u/28939159?s=400&u=6ba1e3cd80736c54979f868c4d5029479d7de906&v=4)
+
+### Adicionando link
+
+[Acesse meu GitHub](https://github.com/joses166)
+
+### Tabela
+
+Num | Nome | Nota
+---|---|---
+1 | José | 9,5
+2 | Marcos | 4,5
+3 | Lucas | 8,0
+
+### Comando
+
+`document.getElementById()`
+
+```
+String str = null;
+if (String.isBlank(str)) return "Hello";
+```
 
